@@ -1,3 +1,5 @@
+// Faça um programa que retorne os N primeiros números da sequência de Fibonnaci.
+
 #include <iostream>
 using namespace std;
 int main() {
