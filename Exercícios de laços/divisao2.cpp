@@ -1,6 +1,5 @@
 // Faça um programa que retorne a soma dos N primeiros números da sequência 1/3, 1/9, 1/27, ...
 
-
 #include <iostream>
 using namespace std;
 int main(){
