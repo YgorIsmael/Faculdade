@@ -1,3 +1,5 @@
+// Faça um programa que escreva a soma dos 10 primeiros números da seguinte sequência em decimais: 2/1, -3/2, 4/4, -5/8, 6/16, ...
+
 #include <iostream>
 using namespace std;
 int main(){
