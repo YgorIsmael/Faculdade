@@ -1,3 +1,12 @@
+// Faça um programa em C++ que receba as informações de 5 funcionários:
+// A) tempo de empresa, B) Cargo (V-Vendedor, C-Chefe, E-Estoque), C) Salário
+// Pede-se:
+// A) Mostrar a remuneração ( Vendedor -> +0.5% por ano), ( Chefe -> +2000 por ano), ( Estoque -> +10% por quinquênio)
+// B) Maior tempo de empresa
+// C) Média da remuneração dos vendedores
+// D) Remuneração do funcionário de estoque há menos tempo na empresa
+// E) Verificar se todos os chefes tem mais de 10 anos na empresa
+
 #include <iostream>
 using namespace std;
 int main(){
@@ -51,7 +60,7 @@ int main(){
 		i++;
 }	
     cout << "Maior tempo na empresa:\n" << maiortempo << "\n";
-    cout << "M�dia de remunera��o dos vendedores:\n" << media / y << "\n";
+    cout << "Média de remuneração dos vendedores:\n" << media / y << "\n";
     cout << "Menor remuneracao de um funcionario de estoque:\n" << menorremuneracao << "\n";
     
     if (flag == false){
