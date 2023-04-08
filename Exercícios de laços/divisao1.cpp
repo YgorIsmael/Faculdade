@@ -1,4 +1,5 @@
 // Faça um programa que retorne os N primeiros números da sequência 1/3, 1/9, 1/27, ..., em decimais.
+
 #include <iostream>
 using namespace std;
 int main() {
