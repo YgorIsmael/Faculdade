@@ -1,8 +1,10 @@
+// Faça um programa que retorne o fatorial de N.
+
 #include <iostream>
 using namespace std;
-
+int n, i, fat;
 int main() {
-	int n, i, fat;
+	
 	cin >> n;
 	i = 1;
 	fat = 1;
