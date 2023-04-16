@@ -1,6 +1,6 @@
-// Crie um programa que informe se um número é perfeito ou não.
-// Números perfeitos são os números em que a soma de todos os seus divisores inteiros positivos com exceção de si mesmo é igual a ele.
-// Por exemplo: o número 6 é perfeito já que 6 = 3+2+1.
+// Crie um programa que informe se um nÃºmero Ã© perfeito ou nÃ£o.
+// NÃºmeros perfeitos sÃ£o os nÃºmeros em que a soma de todos os seus divisores inteiros positivos com exceÃ§Ã£o de si mesmo Ã© igual a ele.
+// Por exemplo: o nÃºmero 6 Ã© perfeito jÃ¡ que 6 = 3+2+1.
 #include <iostream>
 using namespace std;
 
