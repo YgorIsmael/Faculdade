@@ -1,1 +1,1 @@
-As explicações dos exercícios estão contidas dentro do código
+⚠️ As explicações dos exercícios estão contidas dentro do código
