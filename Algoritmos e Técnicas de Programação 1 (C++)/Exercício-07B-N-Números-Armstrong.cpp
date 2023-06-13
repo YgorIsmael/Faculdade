@@ -1,6 +1,6 @@
-//Número de Armstrong é um número de n dígitos que é igual a soma de cada um dos seus dígitos elevado a n-ésima potência.
-//Por exemplo, 153 (n = três dígitos) é igual a 13 + 53 + 33 = 1 + 125 + 27 = 153.
-//Crie um algoritmo que determine os N primeiros números de armstrong.
+//NÃºmero de Armstrong Ã© um nÃºmero de n dÃ­gitos que Ã© igual a soma de cada um dos seus dÃ­gitos elevado a n-Ã©sima potÃªncia.
+//Por exemplo, 153 (n = trÃªs dÃ­gitos) Ã© igual a 13 + 53 + 33 = 1 + 125 + 27 = 153.
+//Crie um algoritmo que determine os N primeiros nÃºmeros de armstrong.
 
 #include <iostream>
 using namespace std;
@@ -49,7 +49,7 @@ bool armstrong (int n) {
 
 int main(){
 	int valor;
-	cout << "Escreva um valor até 999 para quantos numeros o algoritmo ira rodar\n";
+	cout << "Escreva um valor atÃ© 999 para quantos numeros o algoritmo ira rodar\n";
 	cin >> valor;
 	int i = 0;
 	while (i<valor){
