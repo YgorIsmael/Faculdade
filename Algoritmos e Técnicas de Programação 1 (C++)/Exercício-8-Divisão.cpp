@@ -1,6 +1,6 @@
-//Algoritmo da divisão. Dados dois números inteiros	positivos(o primeiro é o dividendo e o segundo,	o divisor),	
-//subtraia o divisor do dividendo e repita a operação enquanto o resultado não for menor que o divisor.
-//A	quantidade de repetições é o quociente,	e o	último valor obtido	na sucessão	de subtrações é	o resto.
+//Algoritmo da divisÃ£o. Dados dois nÃºmeros inteiros	positivos(o primeiro Ã© o dividendo e o segundo,	o divisor),	
+//subtraia o divisor do dividendo e repita a operaÃ§Ã£o enquanto o resultado nÃ£o for menor que o divisor.
+//A	quantidade de repetiÃ§Ãµes Ã© o quociente,	e o	Ãºltimo valor obtido	na sucessÃ£o	de subtraÃ§Ãµes Ã©	o resto.
 #include <iostream> 
 using namespace std;
 int main() {
