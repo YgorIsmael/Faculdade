@@ -1,10 +1,10 @@
-// Euclides foi o autor da obra "Elementos", um marco hist√≥rico no emprego do m√©todo dedutivo √† geometria, e
-// que, assim, passou a ser um modelo para toda a Matem√°tica que viria a ser feita por s√©culos.
-// √â atribu√≠do a Euclides um algoritmo para o c√°lculo do M√°ximo Divisor Comum. O algoritmo consiste em
-// realizar a divis√£o inteira entre os n√∫meros dados. Caso o resto seja diferente de
-// zero, isto √©, o dividendo n√£o seja m√∫ltiplo do divisor, repete-se o processo, mas, dessa vez,
+// Euclides foi o autor da obra "Elementos", um marco histÛrico no emprego do mÈtodo dedutivo ‡ geometria, e
+// que, assim, passou a ser um modelo para toda a Matem·tica que viria a ser feita por sÈculos.
+// … atribuÌdo a Euclides um algoritmo para o c·lculo do M·ximo Divisor Comum. O algoritmo consiste em
+// realizar a divis„o inteira entre os n˙meros dados. Caso o resto seja diferente de
+// zero, isto È, o dividendo n„o seja m˙ltiplo do divisor, repete-se o processo, mas, dessa vez,
 // usando como dividendo o que foi anteriormente o divisor, e usando como divisor o que foi anteriormente o resto.
-// Quando o resto finalmente valer 0, o divisor √© o M.D.C. Implemente-o.
+// Quando o resto finalmente valer 0, o divisor È o M.D.C. Implemente-o.
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -14,9 +14,9 @@ int main() {
     int i = 0;
     int resto = 0;
     int valor = 0;
-    cout << "Digite o primeiro n√∫mero: " << endl;
+    cout << "Digite o primeiro n˙mero: " << endl;
     cin >> num1;
-    cout << "Digite o segundo n√∫mero: " << endl;
+    cout << "Digite o segundo n˙mero: " << endl;
     cin >> num2;
     if (num1 <= 0 || num2 <= 0) {
         return 0;
